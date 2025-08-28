@@ -327,11 +327,3 @@ Este taller demostró la importancia de los principios de diseño en la programa
 El desarrollo incremental de la calculadora, desde una implementación básica hasta versiones especializadas, ilustra cómo los conceptos de POO permiten crear código mantenible, extensible y robusto.
 
 ---
-
-## Referencias
-
-Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley Professional.
-
-Martin, R. C. (2008). Clean Code: A Handbook of Agile Software Craftsmanship. Prentice Hall.
-
-Van Rossum, G., & Drake, F. L. (2009). Python 3 Reference Manual. CreateSpace.
